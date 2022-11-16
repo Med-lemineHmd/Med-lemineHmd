@@ -40,6 +40,7 @@ Hi there, I'm Mo lemine 👋,<br>A passionate Full Stack Developer 🚀 having e
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
   <a href="https://www.postman.com/" target="_blank"><img style="margin: 15px" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="MongoDB" height="50" /></a>  
+  <a href="https://soliditylang.org/" target="_blank"><img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="MongoDB" height="50" /></a> 
 </div>  
 
 <br/>  
