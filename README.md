@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi there, I'm Mo lemine 👋,<br>A passionate Full Stack Developer 🚀 having experience building Web and Mobile applications with JavaScript / Reactjs / Nodejs and other excellent libraries and frameworks.
+<h1 align="center">Hi there, I'm Mo lemine 👋</h1>
+<p align="center">A passionate Full Stack Developer 🚀 having experience building Web and Mobile applications with JavaScript / Reactjs / Nodejs and other excellent libraries and frameworks. </p>
+
+<p align="center">I love creating new things ⚡</p>
 
 
 ## 🌐 Socials:
